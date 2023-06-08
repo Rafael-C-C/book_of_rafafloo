@@ -1,0 +1,60 @@
+[33mcommit d78ae780d3715ebf69139712510dfc820e7e2690[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Rafael-C-C <xxrafaflooxx@gmai.com>
+Date:   Wed Jun 7 19:16:46 2023 -0600
+
+    Añadiendo capitulo 5 al indice
+
+[33mcommit 1b8d1d821e3caa1f42c5c61213afb3b77a7bc8bd[m
+Author: Rafael-C-C <xxrafaflooxx@gmai.com>
+Date:   Wed Jun 7 19:12:21 2023 -0600
+
+    Añadido capitulo 3
+
+[33mcommit 865ed899dbdbc94299f712905306cce8032cd094[m
+Author: Rafael-C-C <xxrafaflooxx@gmai.com>
+Date:   Wed Jun 7 19:06:23 2023 -0600
+
+    Añadido capítulo 2.
+
+[33mcommit b61babd84b9e4e43695a8ee16854d71c2d9681e6[m
+Merge: 52fd2a8 608c754
+Author: Rafael-C-C <xxrafaflooxx@gmai.com>
+Date:   Wed Jun 7 19:01:09 2023 -0600
+
+    Merge branch 'main' of https://github.com/Rafael-C-C/book_of_rafafloo
+
+[33mcommit 52fd2a80e55b3c50d97734d9ebc4ef598406e881[m
+Author: Rafael-C-C <xxrafaflooxx@gmai.com>
+Date:   Wed Jun 7 19:00:45 2023 -0600
+
+    He creado la carpeta capitulos y el capitulo 1
+
+[33mcommit ef9cc3a65ebc8d48d7fd3df0b3c8949e65198721[m
+Author: Rafael-C-C <xxrafaflooxx@gmai.com>
+Date:   Tue Jun 6 19:09:56 2023 -0600
+
+     Añadido capítulo 3 sobre gestión de ramas al índice.
+
+[33mcommit 608c7540b0d7eaa377573124c106e904ac3934c1[m
+Author: Rafael-C-C <xxrafaflooxx@gmai.com>
+Date:   Tue Jun 6 19:09:56 2023 -0600
+
+    Añadido capítulo 3 sobre gestión de ramas
+
+[33mcommit 9ca1040fea16359096a51031ae6aafb99b333f60[m
+Author: Rafael-C-C <xxrafaflooxx@gmai.com>
+Date:   Tue Jun 6 19:05:29 2023 -0600
+
+    Añadido indice del libro
+
+[33mcommit b326220f18ed16d04f31fa1c4528c5972ca2d7a5[m
+Author: Rafael-C-C <xxrafaflooxx@gmai.com>
+Date:   Tue Jun 6 19:01:14 2023 -0600
+
+    Indice
+
+[33mcommit c512fed19f0d10f99bd6023af791a8a551c781b7[m
+Author: Rafael-C-C <xxrafaflooxx@gmai.com>
+Date:   Tue Jun 6 18:54:52 2023 -0600
+
+    mi first commit
